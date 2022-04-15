@@ -54,9 +54,12 @@ r
 p a q,r;p b q;q a $;q b p;r a p;r b p,r;
 ```
 ## Output
-result of input1.txt
+<b>result of input1.txt</b></br>
 ![image](https://user-images.githubusercontent.com/54761791/163568694-877af027-0be0-40fd-809b-7ac70cca8c18.png)
-result of input2.txt
+</br>
+<b>result of input2.txt</b></br>
 ![image](https://user-images.githubusercontent.com/54761791/163568710-6695d44f-1639-4906-913e-b3c656badc26.png)
-result of input3.txt
+</br>
+<b>result of input3.txt</b><br>
 ![image](https://user-images.githubusercontent.com/54761791/163568732-ac486db7-ad7e-4e6e-8900-5b6c283e1a6a.png)
+</br>
