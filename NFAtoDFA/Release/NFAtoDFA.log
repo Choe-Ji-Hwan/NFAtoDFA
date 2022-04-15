@@ -1,0 +1,21 @@
+﻿  NFAtoDFA.cpp
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 610 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NFAtoDFA.vcxproj -> C:\Users\wlghk\source\repos\NFAtoDFA\Release\NFAtoDFA.exe

@@ -1,0 +1,34 @@
+﻿  main.cpp
+  NFA.cpp
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfa.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  NFAtoDFA.cpp
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\nfatodfa.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  TokenFactory.cpp
+c:\users\wlghk\source\repos\nfatodfa\nfatodfa\tokenfactory.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NFAtoDFA.vcxproj -> C:\Users\wlghk\source\repos\NFAtoDFA\Debug\NFAtoDFA.exe

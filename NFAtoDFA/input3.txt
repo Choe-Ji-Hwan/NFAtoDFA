@@ -1,0 +1,5 @@
+p q r
+a b
+q
+r
+p a q,r;p b q;q a $;q b p;r a p;r b p,r;

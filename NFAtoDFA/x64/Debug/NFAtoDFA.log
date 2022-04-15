@@ -1,0 +1,9 @@
+﻿  main.cpp
+  NFA.cpp
+D:\족보\2021 3학년 1학기\형식언어_손윤식\2017112104_최지환_ 형식언어01_Assignment#3\NFAtoDFA\NFAtoDFA\NFA.cpp(61,81): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NFAtoDFA.cpp
+  TokenFactory.cpp
+D:\족보\2021 3학년 1학기\형식언어_손윤식\2017112104_최지환_ 형식언어01_Assignment#3\NFAtoDFA\NFAtoDFA\TokenFactory.cpp(6,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\족보\2021 3학년 1학기\형식언어_손윤식\2017112104_최지환_ 형식언어01_Assignment#3\NFAtoDFA\NFAtoDFA\TokenFactory.cpp(10,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  NFAtoDFA.vcxproj -> D:\족보\2021 3학년 1학기\형식언어_손윤식\2017112104_최지환_ 형식언어01_Assignment#3\NFAtoDFA\x64\Debug\NFAtoDFA.exe
